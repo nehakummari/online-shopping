@@ -8,6 +8,7 @@
 	<name>onlineshopping Maven Webapp</name>
 	<url>http://maven.apache.org</url>
 
+	
 	<!-- Version information will be stored here -->
 	<properties>
 		<javaee.version>7.0</javaee.version>
